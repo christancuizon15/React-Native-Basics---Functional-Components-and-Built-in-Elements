@@ -1,22 +1,23 @@
 <<<<<<< HEAD
 # Welcome to your Expo app 👋
 
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+# React Native Food Ordering App
 
-2. Start the app
+## Features
+- Home screen with food menu
+- Orders screen with cart and quantity controls
+- Modal and alert interactions
+- Dark mode UI
 
-   ```bash
-   npx expo start
-   ```
-
+## How to Run
+npm install  
+npx expo start
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
